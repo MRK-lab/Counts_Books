@@ -1,0 +1,23 @@
+Library_Code: 1019000
+
+Library_Code Nedir?: Kütüphaneye ait olan kod.
+Library_Code Nasıl Bulunur?: Kütüphane kitaplar listesinde en büyük barkodlu kitaba bakarak, baştan sıfırların bitimine kadar olan kısımdır.
+Library_Code(101900083996)= 1019000
+
+Programın kullabilmesi için gereken klasörler:
+	1- "Yedek" klasörü
+	2- "barkodlar","bilgi","kayıt dışı1","kayıt dışı2","kayıt","liste","okunanlar","okuyucudaki kitaplar" belgeleri
+
+NOT: Uygulamaya yüklenen liste kesinlikle barkod sırasına göre küçükten büyüğe sıralı olmalıdı. Aksi halde sağlıklı çalışmaz.
+Listenizi alfabetik yapabilmem için kmuhammetriza@gmail.com adresiyle bana ulaşınız.
+
+Programın çalışabilmesi için gerekli dosyaların doldurulması gerekir. Bunlar; barkodlar, liste ve okuyucudaki kitaplar.
+Liste: sizin kitap listenizdir. Barkodlar büyükten küçüğe sıralı olmalıdır.
+Barkodlar: Listede bulunan barkodlar kısmının kopyasını bu kısma yapıştırmalısınız.
+Okuyucudaki Kitapla: Okuyucudaki kitapları da rafta olmayan kitaplardan çıkarmak isterseniz bu kısma da okuyucuda olan kitapları koymalısınız.
+
+Diğer dosyaların görevleri;
+Kayıt: Sizin programa okutup kayıt ettiğiniz kitaplardır. Yani rafta olduğu kesinleşmiş kitaptır.
+Okunanlar: Sizin tüm okuttuğunuz değerlerin tutulduğu programın işleyişi açısından önemli dosyadır.
+Kayıt Dışı1: Kayıt ettğiniz kitapları kitap listesinden çıkararak rafta olmayan kitapların tutulduğu dosyadır.
+Kayıt Dışı2: Rafta olmayan kitapların içerisinde okuyucunun elinde olan kitapların çıkarılmış hali bu dosyada bulunur.
